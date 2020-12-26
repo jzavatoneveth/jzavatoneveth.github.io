@@ -1,5 +1,5 @@
 ---
-title: "The manifold structure of limb coordination in walking Drosophila"
+title: "The manifold structure of limb coordination in walking <i>Drosophila</i>"
 collection: publications
 permalink: /publication/2019-06-28-the-manifold-structure-of-limb-coordination-in-walking-drosophila
 excerpt: 
