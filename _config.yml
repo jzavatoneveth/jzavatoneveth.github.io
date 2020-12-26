@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jacob Zavatone-Veth"
-  avatar           : 
+  avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Cambridge, MA"
   employer         : 
